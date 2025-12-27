@@ -506,5 +506,491 @@ dataSet[dataSetVersion].characterData = [
       story: ["pp"],
       minor: false
     }
+  },
+  {
+    name: "Jasprosesprite^2",
+    img: "jasprose.png",
+    opts: {
+      species: ["sprite", "human", "other"],
+      story: ["catnap", "pp"],
+      minor: false
+    }
+  },
+  {
+    name: "(Vriska Serket)",
+    img: "ppvriska.png",
+    opts: {
+      species: ["troll"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Mindmom",
+    img: "ppmindmom.png",
+    opts: {
+      species: ["other"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Nannasprite(x1 & x2)",
+    img: "nanna.png",
+    opts: {
+      species: ["sprite", "human"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Tavros Nitram",
+    img: "pptavros.png",
+    opts: {
+      species: ["troll"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Calliope (Meat)",
+    img: "mcallie.png",
+    opts: {
+      species: ["cherub"],
+      story: ["meat"],
+      minor: false
+    }
+  },
+  {
+    name: "Jane Crocker (Meat)",
+    img: "mjane.png",
+    opts: {
+      species: ["human"],
+      story: ["catnap", "meat"],
+      minor: false
+    }
+  },
+  {
+    name: "Bec Noir",
+    img: "becnoir.png",
+    opts: {
+      species: ["carap"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Clover",
+    img: "clover.png",
+    opts: {
+      species: ["leprechaun"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Lil' Mr. Gamby",
+    img: "gamby.png",
+    opts: {
+      species: ["troll"],
+      story: ["fanon"],
+      minor: true
+    }
+  },
+  {
+    name: "Crowbar",
+    img: "crowbar.png",
+    opts: {
+      species: ["leprechaun"],
+      story: ["candy", "fanon"],
+      minor: false
+    }
+  },
+  {
+    name: "Nepeta Leijon",
+    img: "ftnepeta.png",
+    opts: {
+      species: ["troll"],
+      story: ["fanon"],
+      minor: false
+    }
+  },
+  {
+    name: "Sawbuck",
+    img: "sawbuck.png",
+    opts: {
+      species: ["leprechaun"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Ly'lac, of the Final Applause",
+    img: "lylac.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "Teacher",
+    img: "teacher.png",
+    opts: {
+      species: ["human"],
+      story: ["influence"],
+      minor: true
+    }
+  },
+  {
+    name: "Principal",
+    img: "principal.png",
+    opts: {
+      species: ["human"],
+      story: ["influence"],
+      minor: true
+    }
+  },
+  {
+    name: "Imode Kurita",
+    img: "imode.png",
+    opts: {
+      species: ["human"],
+      story: ["candy", "influence"],
+      minor: false
+    }
+  },
+  {
+    name: "Avril Thorpe",
+    img: "avril.png",
+    opts: {
+      species: ["human"],
+      story: ["candy", "influence"],
+      minor: false
+    }
+  },
+  {
+    name: "Silas P Beauregard III",
+    img: "silas.png",
+    opts: {
+      species: ["human"],
+      story: ["candy", "influence"],
+      minor: false
+    }
+  },
+  {
+    name: "Ruthie Gold",
+    img: "ruthie.png",
+    opts: {
+      species: ["troll"],
+      story: ["influence"],
+      minor: true
+    }
+  },
+  {
+    name: "Andrew Hussie",
+    img: "hussie.png",
+    opts: {
+      species: ["human"],
+      story: ["threat"],
+      minor: true
+    }
+  },
+  {
+    name: "Brain Ghost Dirk (Meat)",
+    img: "mbgd.png",
+    opts: {
+      species: ["human"],
+      story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "Motter Ataxia",
+    img: "motter.png",
+    opts: {
+      species: ["troll"],
+      story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "MD",
+    img: "md.png",
+    opts: {
+      species: ["carap"],
+      story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "Jake English (Meat)",
+    img: "mjake.png",
+    opts: {
+      species: ["human"],
+      story: ["catnap", "meat"],
+      minor: false
+    }
+  },
+  {
+    name: "Hysterical Dame",
+    img: "dame.png",
+    opts: {
+      species: ["carap"],
+      story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "Nervous Broad",
+    img: "broad.png",
+    opts: {
+      species: ["carap"],
+      story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "Flinty Glasswipe",
+    img: "flinty.png",
+    opts: {
+      species: ["carap"],
+      story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "Swifer Eggmop (Meat)",
+    img: "mswifer.png",
+    opts: {
+      species: ["troll"],
+      story: ["catnap"],
+      minor: false
+    }
+  },
+  {
+    name: "Cliper Borden",
+    img: "cliper.png",
+    opts: {
+      species: ["troll"],
+      story: ["catnap"],
+      minor: false
+    }
+  },
+  {
+    name: "Diamonds Droog",
+    img: "droog.png",
+    opts: {
+      species: ["carap"],
+      story: ["catnap", "ddd"],
+      minor: false
+    }
+  },
+  {
+    name: "Dad Crocker",
+    img: "dad.png",
+    opts: {
+      species: ["human"],
+      story: ["catnap", "ddd"],
+      minor: false
+    }
+  },
+  {
+    name: "Average Bartender",
+    img: "bartender.png",
+    opts: {
+      species: ["carap"],
+      story: ["ddd"],
+      minor: true
+    }
+  },
+  {
+    name: "Problem Sleuth",
+    img: "sleuth.png",
+    opts: {
+      species: ["carap"],
+      story: ["ddd"],
+      minor: false
+    }
+  },
+  {
+    name: "Snowman",
+    img: "snowman.png",
+    opts: {
+      species: ["carap"],
+      story: ["ddd"],
+      minor: false
+    }
+  },
+  {
+    name: "Tough Mook",
+    img: "thug.png",
+    opts: {
+      species: ["carap"],
+      story: ["ddd"],
+      minor: true
+    }
+  },
+  {
+    name: "Spades Slick",
+    img: "slick.png",
+    opts: {
+      species: ["carap"],
+      story: ["ddd"],
+      minor: false
+    }
+  },
+  {
+    name: "Caretaker",
+    img: "caretaker.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "Meemaw",
+    img: "meemaw.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "TC",
+    img: "tc.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "Swiss Elysi",
+    img: "swiss.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "Cloppy",
+    img: "cloppy.png",
+    opts: {
+      species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "The Licker",
+    img: "licker.png",
+    opts: {
+      species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Terezi (Satyr)",
+    img: "satyrezi.png",
+    opts: {
+      species: ["satyr", "troll"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Vriska (Nymph)",
+    img: "nymphska.png",
+    opts: {
+      species: ["nymph", "troll"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Hegemonic Brute",
+    img: "dbrute.png",
+    opts: {
+      species: ["carap"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Jack Noir",
+    img: "dnoir.png",
+    opts: {
+      species: ["carap"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Colluding Dunce",
+    img: "dunce.png",
+    opts: {
+      species: ["carap"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "Dagger",
+    img: "dagger.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "AA",
+    img: "aa.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "CT",
+    img: "ct.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: false
+    }
+  },
+  {
+    name: "Gubhub Delvry",
+    img: "gubhub.png",
+    opts: {
+      species: ["troll"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "8r8k Soldiers",
+    img: "8r8ksoldiers.png",
+    opts: {
+      species: ["troll", "human"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Ace Dick",
+    img: "dick.png",
+    opts: {
+      species: ["carap"],
+      story: ["catnap"],
+      minor: true
+    }
   }
 ];
