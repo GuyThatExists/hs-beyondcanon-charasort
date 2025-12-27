@@ -254,5 +254,257 @@ dataSet[dataSetVersion].characterData = [
       story: ["candy", "threat"],
       minor: false
     }
+  },
+  {
+    name: "Bunny Experiment",
+    img: "exp2.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Dutton Experiment",
+    img: "exp3.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Horse Experiment",
+    img: "exp4.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Licker Experiment",
+    img: "exp5.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Foxgrub Experiment",
+    img: "exp6.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Octopus Experiment",
+    img: "exp7.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Horse Monster Experiment",
+    img: "exp8.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Davebot",
+    img: "cdave.png",
+    opts: {
+      species: ["human"],
+      story: ["candy", "meat"],
+      minor: false
+    }
+  },
+  {
+    name: "Aradia Megido",
+    img: "aradia.png",
+    opts: {
+      species: ["troll"],
+      story: ["candy", "meat"],
+      minor: false
+    }
+  },
+  {
+    name: "Sollux Captor",
+    img: "sollux.png",
+    opts: {
+      species: ["troll"],
+      story: ["candy"],
+      minor: false
+    }
+  },
+  {
+    name: "Dead Teen Jade",
+    img: "3jade.png",
+    opts: {
+      species: ["human"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "CrockerCorp Goons",
+    img: "ccorpgoons.png",
+    opts: {
+      species: ["human"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Dave Strider (Meat)",
+    img: "mdave.png",
+    opts: {
+      species: ["human"],
+      story: ["meat"],
+      minor: false
+    }
+  },
+  {
+    name: "Calliope (Candy)",
+    img: "ccallie.png",
+    opts: {
+      species: ["cherub"],
+      story: ["candy"],
+      minor: false
+    }
+  },
+  {
+    name: "G'luyrb, of Portents Most Grim",
+    img: "exp9.png",
+    opts: {
+      species: ["exp"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Terezi Pyrope",
+    img: "terezi.png",
+    opts: {
+      species: ["troll"],
+      story: ["meat"],
+      minor: false
+    }
+  },
+  {
+    name: "John Egbert (Meat)",
+    img: "mjohn.png",
+    opts: {
+      species: ["human"],
+      story: ["meat"],
+      minor: true
+    }
+  },
+  {
+    name: "Meenah Peixes",
+    img: "meenah.png",
+    opts: {
+      species: ["troll"],
+      story: ["candy"],
+      minor: false
+    }
+  },
+  {
+    name: "Harry's Rabbit",
+    img: "harrysrabbit.png",
+    opts: {
+      species: ["other"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Alt. Calliope",
+    img: "allie.png",
+    opts: {
+      species: ["cherub"],
+      story: ["meat", "candy"],
+      minor: false
+    }
+  },
+  {
+    name: "Karkat Vantas (Candy)",
+    img: "ckarkat.png",
+    opts: {
+      species: ["troll"],
+      story: ["candy"],
+      minor: false
+    }
+  },
+  {
+    name: "LOBsTERs",
+    img: "LOBsTERs.png",
+    opts: {
+      species: ["troll", "human", "carap", "consort"],
+      story: ["candy"],
+      minor: true
+    }
+  },
+  {
+    name: "Aradia Megido (Plot Point)",
+    img: "pparadiabot.png",
+    opts: {
+      species: ["troll"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Davepetasprite^2",
+    img: "davepeta.png",
+    opts: {
+      species: ["sprite", "human", "troll"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Doc Scratch",
+    img: "ppscratch.png",
+    opts: {
+      species: ["other"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Erisolsprite",
+    img: "erisol.png",
+    opts: {
+      species: ["sprite", "troll"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Fefetasprite",
+    img: "fefeta.png",
+    opts: {
+      species: ["sprite", "troll"],
+      story: ["pp"],
+      minor: false
+    }
+  },
+  {
+    name: "Gcatavrosprite",
+    img: "gcatavros.png",
+    opts: {
+      species: ["sprite", "troll", "other"],
+      story: ["pp"],
+      minor: false
+    }
   }
 ];
