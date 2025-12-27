@@ -16,7 +16,7 @@ dataSet[dataSetVersion].options = [
       { name: "Carapacian", tooltip: "Includes all carapacian characters (e.g. Colluding Dunce, Bec Noir, MD)", key: "carap", checked: false },
       { name: "Consort", tooltip: "Includes all consort characters (None so far)", key: "consort", checked: false },
       { name: "Denizen", tooltip: "Includes all denizen characters (e.g. Seth)", key: "denizen", checked: false },
-      { name: "Sprite", tooltip: "Includes all sprite characters (e.g. Jasprose, Davepeta, Fefeta)", key: "sprite" },
+      { name: "Sprite", tooltip: "Includes all sprite characters (e.g. Jasprose, Davepeta, Fefeta)", key: "sprite", checked: false },
       { name: "Leprechaun", tooltip: "Includes all leprechaun characters (e.g. Crowbar, Sawbuck, Clover)", key: "leprechaun", checked: false },
       { name: "Experiment", tooltip: "Includes all of Rosebot and Ult!Dirk's experiments (not including nymphs and satrys)", key: "exp", checked: false },
       { name: "Other", tooltip: "Includes all characters that don't fit into the above groups (e.g. Mindmom, Doc Scratch)", key: "other", checked: false }
@@ -31,7 +31,7 @@ dataSet[dataSetVersion].options = [
       { name: "Meat", tooltip: "Only includes characters that appear in the Meat timeline. Excludes new Deltritus characters.", key: "meat" },
       { name: "Delta Session", tooltip: "Only includes characters that first appear on Deltritus (e.g. Experiments, Ly'lac, Swiss) and Shurb characters (e.g. Noir, Dunce, Seth).", key: "delta" },
       { name: "Candy", tooltip: "Only includes characters that appear in the Candy timeline. Excludes the Plot Point characters.", key: "candy" },
-      { name: "Plot Point", tooltip: "Only includes characters that appear in the Plot Point.", key: "pp" },
+      { name: "Plot Point", tooltip: "Only includes characters that appear in the Plot Point.", key: "pp", checked: false },
       { name: "Fanontinuum", tooltip: "Only includes characters that appear in the Fanontinuum.", key: "fanon", checked: false },
       { name: "Catnapped", tooltip: "Only includes characters that appear in the Bonus Story Catnapped.", key: "catnap", checked: false },
       { name: "Diamonds, Dames, and Dads", tooltip: "Only includes characters that appear in the Bonus Story Diamonds, Dames, and Dads.", key: "ddd", checked: false },
@@ -990,6 +990,15 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       species: ["carap"],
       story: ["catnap"],
+      minor: true
+    }
+  },
+  {
+    name: "Seth",
+    img: "seth.png",
+    opts: {
+      species: ["denizen"],
+      story: ["delta"],
       minor: true
     }
   }
