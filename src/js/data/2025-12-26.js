@@ -206,7 +206,7 @@ dataSet[dataSetVersion].characterData = [
     img: "cjohn.png",
     opts: {
       species: ["human"],
-      story: ["meat"],
+      story: ["candy"],
       minor: false
     }
   },
