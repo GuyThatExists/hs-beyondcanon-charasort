@@ -251,7 +251,7 @@ dataSet[dataSetVersion].characterData = [
     img: "yiffy.png",
     opts: {
       species: ["human"],
-      story: ["candy", "threat"],
+      story: ["candy"],
       minor: false
     }
   },
