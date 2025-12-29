@@ -418,7 +418,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Harry's Rabbit",
+    name: "Sheriff Dry Hops",
     img: "harrysrabbit.png",
     opts: {
       species: ["other"],
