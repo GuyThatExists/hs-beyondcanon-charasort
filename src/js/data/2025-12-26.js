@@ -1001,5 +1001,32 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Beyond Anon",
+    img: "beyondanon.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "That Damn Narwhal",
+    img: "narwhal.png",
+    opts: {
+      species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Horrorterrors",
+    img: "horrorterrors.png",
+    opts: {
+      species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
