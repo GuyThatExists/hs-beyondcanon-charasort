@@ -16,7 +16,7 @@ dataSet[dataSetVersion].options = [
       { name: "Carapacian", tooltip: "Includes all carapacian characters (e.g. Colluding Dunce, Bec Noir, MD)", key: "carap", checked: false },
       { name: "Consort", tooltip: "Includes all consort characters (None so far)", key: "consort", checked: false },
       { name: "Denizen", tooltip: "Includes all denizen characters (e.g. Seth)", key: "denizen", checked: false },
-      { name: "Sprite", tooltip: "Includes all sprite characters (e.g. Jasprose, Davepeta, Fefeta)", key: "sprite", checked: false },
+      { name: "Sprite", tooltip: "Includes all sprite characters (e.g. Jasprose, Davepeta, Fefeta)\nSprite characters are also sorted under their primary components' species (e.g. Gcatavros is Sprite, Troll, and Other [due to Gcat])", key: "sprite", checked: false },
       { name: "Leprechaun", tooltip: "Includes all leprechaun characters (e.g. Crowbar, Sawbuck, Clover)", key: "leprechaun", checked: false },
       { name: "Experiment", tooltip: "Includes all of Rosebot and Ult!Dirk's experiments (not including nymphs and satrys)", key: "exp", checked: false },
       { name: "Other", tooltip: "Includes all characters that don't fit into the above groups (e.g. Mindmom, Doc Scratch)", key: "other", checked: false }
@@ -466,7 +466,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Davepetasprite^2",
     img: "davepeta.png",
     opts: {
-      species: ["sprite", "human", "troll"],
+      species: ["sprite", "human", "troll", "other"],
       story: ["pp"],
       minor: false
     }
