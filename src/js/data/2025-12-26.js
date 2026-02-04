@@ -19,7 +19,7 @@ dataSet[dataSetVersion].options = [
       { name: "Sprite", tooltip: "Includes all sprite characters (e.g. Jasprose, Davepeta, Fefeta)\n\nSprite characters are also sorted under all of their components' species\n(e.g. Gcatavros is Sprite, Troll, and Other [due to Gcat])", key: "sprite", checked: false },
       { name: "Leprechaun", tooltip: "Includes all leprechaun characters (e.g. Crowbar, Sawbuck, Clover)", key: "leprechaun", checked: false },
       { name: "Experiment", tooltip: "Includes all of Rosebot and Ult!Dirk's experiments (not including nymphs and satrys)", key: "exp", checked: false },
-      { name: "Other", tooltip: "Includes all characters that don't fit into the above groups (e.g. Mindmom, Doc Scratch)", key: "other", checked: false }
+      { name: "Other", tooltip: "Includes all characters that don't fit into the above groups (e.g. Mindmom, Doc Scratch) and characters of unknown species (e.g. Swiss's Licker, Terezi's Terminal)", key: "other", checked: false }
     ]
   },
   {
@@ -1023,6 +1023,15 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Horrorterrors",
     img: "horrorterrors.png",
+    opts: {
+      species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Terezi's Terminal",
+    img: "terezigpt.png",
     opts: {
       species: ["other"],
       story: ["delta"],
