@@ -1037,5 +1037,14 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Ly'lac's Nymph Grannies",
+    img: "nymphgrannies.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
