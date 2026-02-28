@@ -1046,5 +1046,14 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Swiss's Academic Advisor",
+    img: "swissadvisor.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
