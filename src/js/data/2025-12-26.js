@@ -1055,5 +1055,32 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Percy",
+    img: "percy.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Tuck",
+    img: "tuck.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Smuppet-Looking Monster",
+    img: "smuppetmonster.png",
+    opts: {
+      species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
