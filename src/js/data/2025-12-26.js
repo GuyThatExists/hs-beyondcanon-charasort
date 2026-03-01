@@ -15,7 +15,7 @@ dataSet[dataSetVersion].options = [
       { name: "Satyr", tooltip: "Includes all satyr characters (e.g. Swiss, CT, TC)", key: "satyr" },
       { name: "Carapacian", tooltip: "Includes all carapacian characters (e.g. Colluding Dunce, Bec Noir, MD)", key: "carap", checked: false },
       { name: "Consort", tooltip: "Includes all consort characters (None so far)", key: "consort", checked: false },
-      { name: "Denizen", tooltip: "Includes all denizen characters (e.g. Seth)", key: "denizen", checked: false },
+      { name: "Denizen", tooltip: "Includes all denizen characters (e.g. Seth, Hermes)", key: "denizen", checked: false },
       { name: "Sprite", tooltip: "Includes all sprite characters (e.g. Jasprose, Davepeta, Fefeta)\n\nSprite characters are also sorted under all of their components' species\n(e.g. Gcatavros is Sprite, Troll, and Other [due to Gcat])", key: "sprite", checked: false },
       { name: "Leprechaun", tooltip: "Includes all leprechaun characters (e.g. Crowbar, Sawbuck, Clover)", key: "leprechaun", checked: false },
       { name: "Experiment", tooltip: "Includes all of Rosebot and Ult!Dirk's experiments (not including nymphs and satrys)", key: "exp", checked: false },
@@ -1079,6 +1079,15 @@ dataSet[dataSetVersion].characterData = [
     img: "smuppetmonster.png",
     opts: {
       species: ["other"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Hermes",
+    img: "hermes.png",
+    opts: {
+      species: ["denizen"],
       story: ["delta"],
       minor: true
     }
