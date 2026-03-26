@@ -1091,5 +1091,14 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Coach",
+    img: "coach.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
