@@ -940,7 +940,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Dagger",
+    name: "Dagger Tartarus / Del'fi",
     img: "dagger.png",
     opts: {
       species: ["nymph"],
