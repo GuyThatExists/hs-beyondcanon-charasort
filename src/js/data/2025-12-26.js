@@ -1100,5 +1100,32 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Praetorian Pineprance",
+    img: "pineprance.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "Aaron Canter",
+    img: "aaroncanter.png",
+    opts: {
+      species: ["satyr"],
+      story: ["delta"],
+      minor: true
+    }
+  },
+  {
+    name: "The Previous Abyssal Anchoress",
+    img: "anchoress.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
