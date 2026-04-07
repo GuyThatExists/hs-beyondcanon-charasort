@@ -1127,5 +1127,14 @@ dataSet[dataSetVersion].characterData = [
       story: ["delta"],
       minor: true
     }
+  },
+  {
+    name: "Nymph Assailant",
+    img: "nymphassailant.png",
+    opts: {
+      species: ["nymph"],
+      story: ["delta"],
+      minor: true
+    }
   }
 ];
